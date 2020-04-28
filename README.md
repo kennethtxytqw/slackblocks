@@ -1,3 +1,6 @@
+## Disclaimer!
+[kennethtxytqw](https://github.com/kennethtxytqw) is not the original author of this library. This is the [original](https://github.com/nicklambourne/slackblocks). This is a temporary fork made to resolve a bug, https://github.com/nicklambourne/slackblocks/pull/1, which is blocking some of my teams' development.
+
 # slackblocks <img src="https://github.com/nicklambourne/slackblocks/raw/master/docs/img/sb.png" align="right" width="250px"/>
 
 ![Build Status](https://api.travis-ci.org/nicklambourne/slackblocks.svg?branch=master)
